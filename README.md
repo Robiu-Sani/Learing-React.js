@@ -39,4 +39,6 @@ export default {
 @tailwind utilities;
 ```
 ### Run
-``` npm run dev ```
+``` 
+npm run dev
+ ```
