@@ -15,6 +15,7 @@ npm install react-hook-form
 npm install --save react-toastify
 npm install sweetalert2
 npx tailwindcss init -p
+npm install react-hot-toast
 ```
 - or
 ```
