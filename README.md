@@ -1,4 +1,4 @@
 ## 📂 Tabs Navigation
 
-| [Introduction](./introduction.md) | [Installation Guide](./installation.md) | [API Reference](./api.md) | [FAQ](./faq.md) |
-|------------------------------------|-----------------------------------------|---------------------------|-----------------|
+| [Introduction](./README.md) | [simple Installation Guide](./simple-react.md) | [react router with tailwind](./router-dom-project.md) | [FAQ](./faq.md) |
+|-----------------------------|------------------------------------------------|-------------------------------------------------------|-----------------|
