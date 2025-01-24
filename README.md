@@ -5,6 +5,12 @@ npm create vite@latest project-name -- --template react
 cd project-name
 npm install
 ```
+create with react router
+```
+npx create-react-router@latest my-project
+cd my-project
+npm install
+```
 ### importanst packages
 ```
 npm install react-router-dom localforage match-sorter sort-by
